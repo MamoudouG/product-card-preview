@@ -1,0 +1,28 @@
+header {
+    width: 300px;
+    height: 200px;
+    background-color:lightskyblue;
+    margin: 1em;
+}
+
+section {
+    width: 500px;
+    height: 100px;
+    background-color:lightgreen;
+    margin: 1em;
+}
+
+.about-me {
+    width: 500px;
+    height: 100px;
+    background-color: lightcyan;
+    margin: 1em;
+}
+
+#circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: lightcoral;
+    margin: 1em;
+}
